@@ -92,7 +92,7 @@ pl	0,0,0	0,1,0   255,255,255
 
 **Камеры**
 
-To switch camera's you can use the `o`(previous) and `p`(next) keys.
+Для перемещения по камерам используйте `o`(предыдущая) и `p`(следующая).
 
 ## Изображения
 ![Alt-текст](https://github.com/Enderdroid/MiniRT/blob/main/imgs/dragon_0.png "Dragon")
