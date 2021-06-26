@@ -97,9 +97,9 @@ To switch camera's you can use the `o`(previous) and `p`(next) keys.
 ## Изображения
 ![Alt-текст](https://github.com/Enderdroid/MiniRT/blob/main/imgs/dragon_0.png "Dragon")
 ![Alt-текст](https://github.com/Enderdroid/MiniRT/blob/main/imgs/sphere.png "Sphere")
+![Alt-текст](https://github.com/Enderdroid/MiniRT/blob/main/imgs/origami_plane_5.png "Plane")
 ![Alt-текст](https://github.com/Enderdroid/MiniRT/blob/main/imgs/cat.png "Cat")
 ![Alt-текст](https://github.com/Enderdroid/MiniRT/blob/main/imgs/deer.png "Deer")
-![Alt-текст](https://github.com/Enderdroid/MiniRT/blob/main/imgs/origami_plane_5.png "Plane")
 ![Alt-текст](https://github.com/Enderdroid/MiniRT/blob/main/imgs/wolf3d_0.png "Wolf")
 ![Alt-текст](https://github.com/Enderdroid/MiniRT/blob/main/imgs/teapot_0.png "teapot")
 ![Alt-текст](https://github.com/Enderdroid/MiniRT/blob/main/imgs/sp_atom_0.png "More spheres")
